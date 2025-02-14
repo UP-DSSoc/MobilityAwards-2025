@@ -7,6 +7,12 @@ The Mobility Awards is organized by the Institute for Climate and Sustainable Ci
 The Mobility Awards was driven by a simple goal: the prioritization of the needs of 88% of Filipino households in Metro Manila that do not own private cars (JICA-MUCEP, 2015). According to Japan International Cooperation Agency (JICA), over 80% of road spaces are dedicated for the use of private cars despite only 12% of Filipino households being car owners. This is not only happening in Metro Manila, but everywhere else in the Philippines where the conditions for cyclists and pedestrians remain challenging.
 
 [^1]: [Mobility Awards About-Us Page](https://www.mobilityawards.org/about/)
+
+## Speaker Presentations
+
+1. [Gora Lane: Developing the Quezon City Pedestrian Corridor Network](https://github.com/UP-DSSoc/MobilityAwards-2025/blob/main/Speaker%20Presentations/Program%20Proper%20-%20HACK-A-STREET.pdf)
+2. [Walkable Bengaluru: Pilot programme under Walkable Cities initiative](https://github.com/UP-DSSoc/MobilityAwards-2025/blob/main/Speaker%20Presentations/Talk%20-%20Walkable%20Bengaluru.pdf)
+
 ## Team Presentations
 _Note: To view files, please download or fork the repo for access. Files had to be compressed due to large size._
 
