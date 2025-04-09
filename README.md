@@ -1,3 +1,5 @@
+<img src="https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/231224589_347492440424552_770858916976677193_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHJdTPHaTVY53tAVCK4peAnlcOgzp9ZhjeVw6DOn1mGN3xW2haHDdXnZFv-bgkH0a-uTkY7emO_Erc6zFZTvzi9&_nc_ohc=ZPC5e7BIgGsQ7kNvwFPtEpa&_nc_oc=AdmkDfuZJf7oN1P5-KVEBN3Ua6NvvsQKUOnfmO-dnPtJy_YVR1i0nM6jRcRyLACos6g&_nc_zt=23&_nc_ht=scontent.fmnl25-4.fna&_nc_gid=w4fIVuIvkU242vW46007QA&oh=00_AfG8vBELMcxYChkVyEMRggibftDPJ_ZcxrE2pRAQuEc51w&oe=67FC518D">
+
 # MobilityAwards-2025
 Repository of pitch presentations from [MobilityAwards 2025](https://www.mobilityawards.org/) in partnership with UP Data Science Society (UP DSSoc) through UP DSSoc's flagship event - Philippine Junior Data Science Challenge (PJDSC).
 
